@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LAOZ.CQRS.Commands\LAOZ.CQRS.Commands.csproj" />
+    <ProjectReference Include="..\LAOZ.CQRS.Queries\LAOZ.CQRS.Queries.csproj" />
+    <ProjectReference Include="..\LAOZ.CQRS.Repositories\LAOZ.CQRS.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

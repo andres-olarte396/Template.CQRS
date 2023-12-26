@@ -1,0 +1,17 @@
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\bin\Debug\net8.0\LAOZ.CQRS.Commands.deps.json
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\bin\Debug\net8.0\LAOZ.CQRS.Commands.dll
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\bin\Debug\net8.0\LAOZ.CQRS.Commands.pdb
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\bin\Debug\net8.0\LAOZ.CQRS.Models.dll
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\bin\Debug\net8.0\LAOZ.CQRS.Repositories.dll
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\bin\Debug\net8.0\LAOZ.CQRS.Repositories.pdb
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\bin\Debug\net8.0\LAOZ.CQRS.Models.pdb
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\obj\Debug\net8.0\LAOZ.CQRS.Commands.csproj.AssemblyReference.cache
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\obj\Debug\net8.0\LAOZ.CQRS.Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\obj\Debug\net8.0\LAOZ.CQRS.Commands.AssemblyInfoInputs.cache
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\obj\Debug\net8.0\LAOZ.CQRS.Commands.AssemblyInfo.cs
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\obj\Debug\net8.0\LAOZ.CQRS.Commands.csproj.CoreCompileInputs.cache
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\obj\Debug\net8.0\LAOZ.CQRS.Commands.csproj.CopyComplete
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\obj\Debug\net8.0\LAOZ.CQRS.Commands.dll
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\obj\Debug\net8.0\refint\LAOZ.CQRS.Commands.dll
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\obj\Debug\net8.0\LAOZ.CQRS.Commands.pdb
+C:\Users\ANDRES\source\repos\LAOZ.CQRS\LAOZ.CQRS.Commands\obj\Debug\net8.0\ref\LAOZ.CQRS.Commands.dll
